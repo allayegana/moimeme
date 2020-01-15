@@ -7,6 +7,8 @@ public class moimeme {
         funcionarios.add("allayye");
         funcionarios.add("gabriel");
         funcionarios.add("jude");
+        funcionarios.add("mariam");
+        funcionarios.add("fantim");
 
         for (String funcionario :funcionarios){
             System.out.println(funcionario);
